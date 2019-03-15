@@ -1,21 +1,6 @@
-# vue-demo
+# 前言
 
-> A Vue.js project
+> 本案例是基于vue-cli创建的简单评论列表功能，旨意希望通过案列学习vue组件之间通信的相关方式，欢迎大家一起讨论和分享前端学习。
 
-## Build Setup
+## ps案列代码如果在本地测试，请先修改`assetsPublicPath`属性值为`./`
 
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
